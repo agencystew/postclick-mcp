@@ -18,7 +18,7 @@ Use a remote Streamable HTTP connection. OAuth connects the user's own Postclick
 
 ## For agents and researchers
 
-[Agent guide](AGENT-GUIDE.md) · [Server metadata](server.json) · [Official MCP Registry](https://registry.modelcontextprotocol.io/?q=postclick-landing-page-cro) · [REST API](https://ppc.io/postclick/docs)
+[Agent guide](AGENT-GUIDE.md) · [Server metadata](server.json) · [Official MCP Registry](https://registry.modelcontextprotocol.io/?q=postclick-landing-page-cro) · [Glama listing](https://glama.ai/mcp/connectors/io.ppc/postclick-landing-page-cro) · [REST API](https://ppc.io/postclick/docs)
 
 This repository contains public skills, examples and connection documentation. The hosted application source is maintained separately.
 

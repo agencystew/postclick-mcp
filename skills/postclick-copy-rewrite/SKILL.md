@@ -18,6 +18,13 @@ Start with the headline, offer, proof or button that most needs work. Use the us
 
 ## Working with Postclick
 
+Account and credit rules:
+- Apply this downloaded skill to supplied copy or screenshots: no Postclick account, no credits, no audit needed.
+- Read a saved audit or use `run_cro_skill`: connected Postclick account required, zero credits. The tool never starts an audit.
+- Start a new audit, design or build: connected account, a live price check and spending approval required.
+
+Never describe `run_cro_skill` or saved reads as paid work. Never describe private saved audits as anonymously accessible.
+
 Use `run_cro_skill` with this skill's name and the page or client name. Use `latest: true` when the user asks for their latest audit. Reuse an audit ID already known in the conversation. Never ask the user to find an ID. If different pages match, let them choose by name.
 
 Without Postclick, work from the supplied page, screenshots, ad or research. If you cannot open a URL, ask for the page content. Complete the useful part you can support.
