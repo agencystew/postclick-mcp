@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.ppc/postclick-landing-page-cro",
+  "title": "Postclick by PPC.io: Landing Page CRO",
+  "description": "Landing-page CRO: audit pages, rewrite copy, answer buyer objections, design and build via MCP.",
+  "version": "0.3.2",
+  "websiteUrl": "https://ppc.io/postclick/mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.ppc.io"
+    }
+  ]
+}
