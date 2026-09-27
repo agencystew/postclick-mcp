@@ -16,6 +16,17 @@ MCP server URL: **https://mcp.ppc.io**
 
 Use a remote Streamable HTTP connection. OAuth connects the user's own Postclick account. No local server installation is needed.
 
+## Claude plugin
+
+The [plugin](plugin/) adds the five skills and the Postclick server to Claude in one step. In Claude Code, run:
+
+```sh
+claude plugin marketplace add agencystew/postclick-mcp
+claude plugin install postclick@postclick
+```
+
+The skills work on copy you paste in. To use saved audits, run `/mcp` in Claude Code and sign in to Postclick.
+
 ## For agents and researchers
 
 [Agent guide](AGENT-GUIDE.md) · [Server metadata](server.json) · [Official MCP Registry](https://registry.modelcontextprotocol.io/?q=postclick-landing-page-cro) · [Glama listing](https://glama.ai/mcp/connectors/io.ppc/postclick-landing-page-cro) · [REST API](https://ppc.io/postclick/docs)

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "postclick": {
+      "type": "http",
+      "url": "https://mcp.ppc.io"
+    }
+  }
+}

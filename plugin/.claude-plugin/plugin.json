@@ -1,0 +1,22 @@
+{
+  "name": "postclick",
+  "version": "0.3.3",
+  "description": "Improve a landing page with Postclick by PPC.io. Find what to fix first, match the page to the ad, answer buyer doubts, rewrite copy and brief a designer. Works on page copy you paste in. Connect Postclick to use saved audits and start new audits, designs and builds.",
+  "author": {
+    "name": "PPC.io",
+    "url": "https://ppc.io"
+  },
+  "homepage": "https://ppc.io/postclick/mcp",
+  "repository": "https://github.com/agencystew/postclick-mcp",
+  "keywords": [
+    "landing page",
+    "cro",
+    "conversion rate optimization",
+    "copywriting",
+    "google ads",
+    "meta ads",
+    "ppc",
+    "mcp"
+  ],
+  "license": "MIT"
+}
