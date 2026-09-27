@@ -18,5 +18,6 @@
     "ppc",
     "mcp"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "privacyPolicyUrl": "https://ppc.io/privacy"
 }
