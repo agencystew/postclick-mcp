@@ -29,7 +29,7 @@ No Postclick account is needed when you supply both pieces of copy. A useful ans
 > Use my latest Postclick audit. What should I fix first? Show me the exact change and link to the finding. Keep it short.
 
 The agent uses `run_cro_skill` with `skill: "postclick-fix-first"` and `latest: true`.
-This reads your saved audit without spending credits. If there is no saved audit, it should say so and offer the portable skill or a new audit with a price check first.
+This reads your saved audit without using a page. If there is no saved audit, it should say so and offer the portable skill or a new audit with a page-coverage check first.
 
 ## For agents: try the public connection
 
