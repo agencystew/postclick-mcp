@@ -9,8 +9,8 @@ Postclick by PPC.io helps you find what to fix, rewrite copy, answer buyer objec
 ## Start here
 
 - **Have page copy?** Give it to your assistant with a [free skill](skills/). No Postclick account needed.
-- **Have a saved audit?** Connect Postclick and ask: “What should I fix first? Show me the change.” Saved reads use no credits.
-- **Need a new audit or design?** Your agent checks the price and asks before spending credits.
+- **Have a saved audit?** Connect Postclick and ask: “What should I fix first? Show me the change.” Saved reads do not use a page.
+- **Need a new audit or design?** Your agent checks page coverage and current purchase prices, then follows the permission you have given.
 
 MCP server URL: **https://mcp.ppc.io**
 
@@ -39,7 +39,7 @@ Try the public MCP without an account:
 python3 scripts/check-public.py
 ```
 
-This reads the public catalogue and checks that private audit access requires a connection. It does not create an audit or spend credits. The scheduled check runs the same test.
+This reads the public catalogue and checks that private audit access requires a connection. It does not create an audit or use a page. The scheduled check runs the same test.
 
 Postclick does not manage ad accounts. Buyer reactions are modelled. Suggested changes need testing; conversion gains are not guaranteed.
 

@@ -17,8 +17,8 @@ Show the biggest mismatch in a sentence. Then write the headline, supporting lin
 ## Working with Postclick
 
 Account and credit rules:
-- Apply this downloaded skill to supplied copy or screenshots: no Postclick account, no credits, no audit needed.
-- Read a saved audit or use `run_cro_skill`: connected Postclick account required, zero credits. The tool never starts an audit.
+- Apply this downloaded skill to supplied copy or screenshots: no Postclick account or audit needed.
+- Read a saved audit or use `run_cro_skill`: connected Postclick account required. Reading saved work does not use a page or start an audit.
 - Start a new audit, design or build: connected account, a live price check and spending approval required.
 
 Never describe `run_cro_skill` or saved reads as paid work. Never describe private saved audits as anonymously accessible.

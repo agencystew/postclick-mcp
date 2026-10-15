@@ -20,7 +20,7 @@ The plugin also connects Claude to the Postclick server at `https://mcp.ppc.io`.
 
 **With your own page copy.** Paste the copy, a screenshot or your ad. The skills work on what you give Claude. You do not need a Postclick account.
 
-**With a Postclick account.** The first time Claude uses the server, you sign in to Postclick to connect your account. Then Claude can read your saved audits, designs and reports. Reading saved work uses no credits. New audits, designs and page builds cost credits. Claude checks the price and asks you before it starts one.
+**With a Postclick account.** The first time Claude uses the server, you sign in to Postclick to connect your account. Then Claude can read your saved audits, designs and reports. Reading saved work does not use a page. Claude checks page coverage and current purchase prices before starting new work, and follows the permission you have given.
 
 ## What the plugin sends
 
