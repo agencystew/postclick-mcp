@@ -1,10 +1,26 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.ppc/postclick-landing-page-cro",
-  "title": "Postclick by PPC.io: Landing Page CRO",
-  "description": "Landing page CRO: audit a page, rewrite copy, answer buyer objections and build a better page.",
-  "version": "0.4.2",
+  "title": "Postclick by PPC.io: Landing Page CRO and AI Page Builder",
+  "description": "Landing page CRO for Google Ads and Meta ads: audit, fix the copy, answer objections, build pages.",
+  "version": "0.4.3",
   "websiteUrl": "https://ppc.io/postclick/mcp",
+  "icons": [
+    {
+      "src": "https://mcp.ppc.io/icon.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    },
+    {
+      "src": "https://mcp.ppc.io/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",

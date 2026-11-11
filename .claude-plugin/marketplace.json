@@ -5,14 +5,14 @@
     "url": "https://ppc.io"
   },
   "metadata": {
-    "description": "Improve a landing page with Postclick by PPC.io. Find what to fix first, match the page to the ad, answer buyer doubts, rewrite copy and brief a designer. Works on page copy you paste in. Connect Postclick to use saved audits and start new audits, designs and builds."
+    "description": "Landing page CRO for Google Ads and Meta ads. Find what to fix first, check the page matches its ad, answer buyer objections, rewrite copy and brief a designer. Works on page copy you paste in. Connect Postclick to audit pages, draw new designs and build better landing pages."
   },
   "plugins": [
     {
       "name": "postclick",
       "source": "./plugin",
-      "description": "Improve a landing page with Postclick by PPC.io. Find what to fix first, match the page to the ad, answer buyer doubts, rewrite copy and brief a designer. Works on page copy you paste in. Connect Postclick to use saved audits and start new audits, designs and builds.",
-      "version": "0.4.2",
+      "description": "Landing page CRO for Google Ads and Meta ads. Find what to fix first, check the page matches its ad, answer buyer objections, rewrite copy and brief a designer. Works on page copy you paste in. Connect Postclick to audit pages, draw new designs and build better landing pages.",
+      "version": "0.4.3",
       "author": {
         "name": "PPC.io",
         "url": "https://ppc.io"
@@ -28,7 +28,13 @@
         "google ads",
         "meta ads",
         "ppc",
-        "mcp"
+        "mcp",
+        "landing page builder",
+        "landing page audit",
+        "a/b testing",
+        "message match",
+        "google ads landing page",
+        "ai page builder"
       ]
     }
   ]

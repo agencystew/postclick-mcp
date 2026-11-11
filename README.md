@@ -1,8 +1,22 @@
-# Postclick MCP: landing page optimization
+# Postclick MCP: landing page CRO for Google Ads and Meta ads
 
 Let's make your landing page world class.
 
-Postclick by PPC.io helps you find what to fix, rewrite copy, answer buyer objections and turn audit findings into finished landing pages.
+Postclick by PPC.io audits the page your ads send traffic to, finds what stops visitors turning into leads and sales, then rewrites the page or builds you a better one. It works inside Claude, ChatGPT, Cursor and any MCP client.
+
+| | |
+|---|---|
+| Server URL | `https://mcp.ppc.io` |
+| Transport | Streamable HTTP, remote. Nothing to install. |
+| Sign-in | OAuth to your own Postclick account |
+| What it does | Landing page audit, ad match check, buyer objections, competitor check, copy rewrites, A/B test briefs, page designs, page builder |
+
+Ask it things like:
+
+- "What should I fix first on my landing page?"
+- "Does my landing page match my Google ad?"
+- "What makes buyers hesitate on this page?"
+- "Build me a better version of this page."
 
 **[Connect Postclick](https://ppc.io/postclick/mcp?utm_source=github&utm_medium=directory&utm_campaign=postclick-mcp)** · **[Try an example](EXAMPLES.md)** · **[Browse the free skills](skills/)**
 
