@@ -10,7 +10,7 @@ Postclick by PPC.io helps you find what to fix, rewrite copy, answer buyer objec
 
 - **Have page copy?** Give it to your assistant with a [free skill](skills/). No Postclick account needed.
 - **Have a saved audit?** Connect Postclick and ask: “What should I fix first? Show me the change.” Saved reads do not use a page.
-- **Need a new audit or design?** Your agent checks page coverage and current purchase prices, then follows the permission you have given.
+- **Need a new audit or page?** Your agent checks your balance and the live price with `check_balance`, tells you the price, and asks before it starts paid work. A new account gets its first audit free, with no card.
 
 MCP server URL: **https://mcp.ppc.io**
 
@@ -26,6 +26,38 @@ claude plugin install postclick@postclick
 ```
 
 The skills work on copy you paste in. To use saved audits, run `/mcp` in Claude Code and sign in to Postclick.
+
+## Other assistants
+
+Every client below connects to the same remote server and opens a Postclick sign-in page the first time.
+
+**ChatGPT:** Plugins, then Add, then Add custom MCP server. Paste `https://mcp.ppc.io`, choose OAuth, and connect. Mention `@Postclick` in a message to use it.
+
+**Cursor** (`~/.cursor/mcp.json`):
+
+```json
+{ "mcpServers": { "postclick": { "url": "https://mcp.ppc.io" } } }
+```
+
+**VS Code** (`.vscode/mcp.json`):
+
+```json
+{ "servers": { "postclick": { "type": "http", "url": "https://mcp.ppc.io" } } }
+```
+
+**Cline** (`cline_mcp_settings.json`):
+
+```json
+{ "mcpServers": { "postclick": { "type": "streamableHttp", "url": "https://mcp.ppc.io" } } }
+```
+
+**Windsurf** (`~/.codeium/windsurf/mcp_config.json`):
+
+```json
+{ "mcpServers": { "postclick": { "serverUrl": "https://mcp.ppc.io" } } }
+```
+
+**Codex:** `codex mcp add postclick --url https://mcp.ppc.io`
 
 ## For agents and researchers
 
