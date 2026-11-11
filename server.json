@@ -3,7 +3,7 @@
   "name": "io.ppc/postclick-landing-page-cro",
   "title": "Postclick by PPC.io: Landing Page CRO",
   "description": "Landing page CRO: audit a page, rewrite copy, answer buyer objections and build a better page.",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "websiteUrl": "https://ppc.io/postclick/mcp",
   "remotes": [
     {
