@@ -2,7 +2,7 @@
 
 Let's make your landing page world class.
 
-Postclick by PPC.io helps you find what to fix, rewrite copy, answer buyer objections and turn audit findings into designs and finished pages.
+Postclick by PPC.io helps you find what to fix, rewrite copy, answer buyer objections and turn audit findings into finished landing pages.
 
 **[Connect Postclick](https://ppc.io/postclick/mcp?utm_source=github&utm_medium=directory&utm_campaign=postclick-mcp)** · **[Try an example](EXAMPLES.md)** · **[Browse the free skills](skills/)**
 
