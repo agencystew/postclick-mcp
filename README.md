@@ -1,4 +1,4 @@
-# Postclick MCP: landing page CRO for Google Ads and Meta ads
+# Postclick MCP: landing page CRO for paid ads
 
 Let's make your landing page world class.
 

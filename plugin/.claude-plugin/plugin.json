@@ -1,8 +1,8 @@
 {
   "name": "postclick",
   "displayName": "Postclick: Landing Page CRO",
-  "version": "0.4.5",
-  "description": "Landing page CRO for Google Ads and Meta ads. Find what to fix first, check the page matches its ad, answer buyer objections, rewrite copy and brief a designer. Works on page copy you paste in. Connect Postclick to audit pages, draw new designs and build better landing pages.",
+  "version": "0.4.6",
+  "description": "Landing page CRO for paid ads. Find what to fix first and check the page matches its ad, answer buyer objections, rewrite copy and brief a designer. Works on page copy you paste in. Connect Postclick to audit pages, draw new designs and build new landing pages.",
   "author": {
     "name": "PPC.io",
     "url": "https://ppc.io"
@@ -12,17 +12,23 @@
   "keywords": [
     "landing page",
     "cro",
+    "landing page cro",
     "conversion rate optimization",
+    "landing page optimization",
+    "paid ads",
+    "ppc landing page",
     "copywriting",
     "google ads",
     "meta ads",
+    "linkedin ads",
+    "microsoft ads",
+    "tiktok ads",
     "ppc",
     "mcp",
     "landing page builder",
     "landing page audit",
     "a/b testing",
     "message match",
-    "google ads landing page",
     "ai page builder"
   ],
   "license": "MIT",
