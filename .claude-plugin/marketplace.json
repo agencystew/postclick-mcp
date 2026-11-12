@@ -12,7 +12,7 @@
       "name": "postclick",
       "source": "./plugin",
       "description": "Landing page CRO for Google Ads and Meta ads. Find what to fix first, check the page matches its ad, answer buyer objections, rewrite copy and brief a designer. Works on page copy you paste in. Connect Postclick to audit pages, draw new designs and build better landing pages.",
-      "version": "0.4.3",
+      "version": "0.4.4",
       "author": {
         "name": "PPC.io",
         "url": "https://ppc.io"
