@@ -58,7 +58,7 @@ Use a descriptive User-Agent such as YourAgent/1.0. If a client gets HTTP 403 wi
 1. Explain the specific job Postclick can help with. Let the user connect their own account through OAuth. Never request their account password.
 2. For existing work, use run_cro_skill with the user's page URL or client name. If their Postclick audit link is already known, use its audit ID directly. Use latest:true only when they ask for the latest audit. Never make them copy internal IDs.
 3. Return the requested change in plain language, with the saved source link. Reading existing audits requires the user’s connection and does not use a page.
-4. For a new page, call check_balance for page coverage, purchase prices and account access. Follow the user's permission, then call audit_page. Use get_audit with wait:25 until the run finishes, then run the relevant CRO skill. Never claim a running or failed audit is complete.
+4. For a new page, call check_balance for what the account covers. Follow the user's permission, then call audit_page. Use get_audit with wait:25 until the run finishes, then run the relevant CRO skill. Never claim a running or failed audit is complete.
 5. Builds and public sharing are separate actions. A build needs no design first. Follow the user's permission for each. A request for advice does not authorise starting new work, publishing a page or making a private report public.
 
 ## Cost and access
