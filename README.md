@@ -32,7 +32,13 @@ Use a remote Streamable HTTP connection. OAuth connects the user's own Postclick
 
 ## Claude plugin
 
-The [plugin](plugin/) adds the five skills and the Postclick server to Claude in one step. In Claude Code, run:
+The [plugin](plugin/) adds the five skills and the Postclick server to Claude in one step. It is in Claude's plugin directory. In Claude Code, run:
+
+```sh
+claude plugin install postclick-landing-page-cro
+```
+
+Or add this repository as a marketplace:
 
 ```sh
 claude plugin marketplace add agencystew/postclick-mcp
@@ -47,7 +53,7 @@ Every client below connects to the same remote server and opens a Postclick sign
 
 **ChatGPT:** Plugins, then Add, then Add custom MCP server. Paste `https://mcp.ppc.io`, choose OAuth, and connect. Mention `@Postclick` in a message to use it.
 
-**Cursor** (`~/.cursor/mcp.json`):
+**Cursor:** the same [plugin](plugin/) works as a Cursor plugin (`.cursor-plugin/`). Or add the server to `~/.cursor/mcp.json`:
 
 ```json
 { "mcpServers": { "postclick": { "url": "https://mcp.ppc.io" } } }
